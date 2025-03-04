@@ -10,10 +10,10 @@ Continuous testing
 
 ## Before starting
 
-1. Read [00.lab-essentials](../00.lab-essentials) to see if you need to install anything.
-2. Create and activate virtual environment: `env_mlops`
+1. Create and activate virtual environment: `env_mlops`
+2. Install pytest in virtual env .
 3. In this virtual environment install `pytest`: `pip install pytest`
-4. Go to the [pytest doc](https://docs.pytest.org/en/7.0.x/getting-started.html). Read how the files and test functions should be named, so pytest can discover them automatically.
+4. Go to the [pytest doc](https://docs.pytest.org/en/stable/getting-started.html). Read how the files and test functions should be named, so pytest can discover them automatically.
 
 ## Prepare the environment
 
@@ -157,3 +157,11 @@ If you have problems running your tests:
 2. Copy your error to browser (or describe it properly) and Google it. Since pytest is much used by the Python community, you have a big chance that somebody else already resolved the same issue.
 3. When you open a link with a potential solution, don't just scroll through the page, but read. (Even if you don't understand it. You have to start somewhere.)
 4. Try out the proposed solution.
+
+## Where to go from here
+
+If you have finished the lab before the end of class or want to explore testing in python further, consider any of the following options .
+
+1. Utilize any of the skills we have started practicing in the mlops class and apply them to an existing code base you want to clean up and use to highlight your skills .
+2. Start going through [Test Driven Development with Python here](https://www.oreilly.com/library/view/test-driven-development-with/9781098148706/) in the case that you still have an oreily subscription, or [here](https://www.obeythetestinggoat.com/) in the case you want to access the open source version of the book .
+3. In the case that you don't have past projects to which you want to add testing, imagine some common functions you find yourself using in your projects (I'm looking at you python functin I've written to strip the punctioation from strings a million times) . Write tests for those and start to build a library of your own functions to use in future projects .
