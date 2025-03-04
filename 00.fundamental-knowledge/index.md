@@ -84,9 +84,9 @@ Learn Bash base commands:
   - Use HTTP verbs (GET / POST / PUT / DELETE)
   - Client connects to communicate
   - Usually communicating in JSON
-  
+
 REST API example: https://petstore.swagger.io/
-  
+
 ### SSL/TLS & HTTPS
 
 (Secure Sockets Layer / Transport Layer Security)
@@ -126,19 +126,19 @@ REST API example: https://petstore.swagger.io/
 
 ### Editors, IDE
 
-As a developer, the terminal being your partner and the editor is your best friend: 
+As a developer, the terminal being your partner and the editor is your best friend:
 
-- [Vim](https://www.vim.org/) (Linux, macOS, Windows)   
+- [Vim](https://www.vim.org/) (Linux, macOS, Windows)
   Free, one of the most powerful, many will say the most powerful, single file or project-oriented.
-- [Atom](https://atom.io/) (Linux, macOS, Windows)   
-  Free project-oriented, minimalist, and productive UI (my day to day favorite editor), slow and memory hungry
-- [VS Code](https://code.visualstudio.com/) (Linux, macOS, Windows)   
+- [Atom](https://atom.io/) (Linux, macOS, Windows)
+  Free project-oriented, minimalist, and productive UI, slow and memory hungry
+- [VS Code](https://code.visualstudio.com/) (Linux, macOS, Windows)
   Free most popular editor, most active community, and plugins development
-- [Sublime Text](https://www.sublimetext.com/) (Linux, macOS, Windows)   
+- [Sublime Text](https://www.sublimetext.com/) (Linux, macOS, Windows)
   Free, very fast, single file or project-oriented
-- [BBedit](https://www.barebones.com/products/bbedit/) (macOS)   
+- [BBedit](https://www.barebones.com/products/bbedit/) (macOS)
   Free version very powerful, very fast
-- [Notepad++](https://notepad-plus-plus.org/) Windows)   
+- [Notepad++](https://notepad-plus-plus.org/) Windows)
   Free, almost a Windows standard, powerful and fast
 - [WebStorm](https://www.jetbrains.com/webstorm/) (Linux, macOS, Windows)
   Licensed, 30 days trial
@@ -146,32 +146,32 @@ As a developer, the terminal being your partner and the editor is your best frie
 
 ### Gravatar
 
-- Globally Recognized   
+- Globally Recognized
   Gravatar (Globally Recognized Avatar) provides a universal avatar service that links user avatars to their email addresses, making them visible across participating sites.
-- Ease of Use   
+- Ease of Use
   Users can create a Gravatar account and upload an avatar once, which will automatically appear on all sites that support Gravatar, enhancing consistency and recognition.
-- Widely Supported   
+- Widely Supported
   Many popular websites and applications, including WordPress, GitHub, and Stack Overflow, integrate with Gravatar to display user avatars.
-- Personal Branding   
+- Personal Branding
   Gravatar helps in personal branding by ensuring that your chosen image appears alongside your content across the web, providing a cohesive and professional online presence.
 
 ## Common Knowledge
 
 ### Programmation paradigms
 
-- Declarative   
+- Declarative
   The program describes its desired results without explicitly listing commands or steps.
-- Imperative   
+- Imperative
   The control flow is an explicit sequence of commands.
-- Functional   
+- Functional
   The computation proceeds by function calls, no global state
-- Object-oriented   
+- Object-oriented
   Everything is an object, functions are methods and are executed with the object's context
-- Event-driven   
+- Event-driven
   The control flow is triggered and determined by async actions
-- Fluent API   
+- Fluent API
   Chaining method calls in a readable, fluid manner.
-- Pure function   
+- Pure function
   A function that, given the same inputs, always produces the same output and has no side effects, not altering any state or data outside its scope.
 
 ### Communities
@@ -192,17 +192,17 @@ As a developer, the terminal being your partner and the editor is your best frie
 
 ### Markdown
 
-- Simple Syntax   
+- Simple Syntax
   Markdown uses easy-to-read, plain text formatting syntax that can be quickly learned and applied.
-- Versatility   
+- Versatility
   It can be used to create formatted text for web pages, documents, notes, and more.
-- Compatibility   
+- Compatibility
   Markdown files can be converted to various formats such as HTML, PDF, and Word.
-- Lightweight   
+- Lightweight
   As a plain text format, Markdown is lightweight and doesn't require special software to read or write.
-- Widespread Use   
+- Widespread Use
   Popular platforms like GitHub, Reddit, and Stack Overflow support Markdown, making it a valuable skill.
-- Improves Workflow   
+- Improves Workflow
   It enhances productivity by allowing writers and developers to focus on content without worrying about complex formatting.
 
 ### JSON format
