@@ -11,4 +11,6 @@ This is a recommended list of Git base concepts and best practices to learn in a
 6. [Learn Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 7. [Learn squashing commits](https://medium.com/the-mighty-programmer/squashing-git-commits-4b53fe1c138e)
 
-Read the [Pro Git book](https://git-scm.com/book/en/v2) to become a Git professional!
+Read the [Pro Git book](https://git-scm.com/book/en/v2) to become a Git professional!  
+
+Helpful recent article on how to make git your own: [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) .
