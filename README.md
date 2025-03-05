@@ -155,7 +155,7 @@ Lab: Data versioning with DVC
 - Access the data in DVC using python api
 - Access a specific version of the dataset
 
-### Module 8 (5h): Data and model testing, integration with CML
+### Module 8: Data and model testing, integration with CML
 
 Course: 
 
@@ -217,7 +217,7 @@ Lab:
 - Create a Docker container image
 - Deploying the container to Azure Web Services
 
-### Module 11 (5h): Monitoring of deployed model
+### Module 11: Monitoring of deployed model
 
 Course: 
 
@@ -235,7 +235,7 @@ Lab: Data drift detection and model degradation
 - See a concrete example of data drift
 - Learn how to detect and evaluate it
 
-### Module 12 (4h): End-to-end ML platforms
+### Module 12: End-to-end ML platforms
 
 Course:
 
