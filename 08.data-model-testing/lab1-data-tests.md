@@ -16,7 +16,7 @@ Now we know how to version the data, the models, the environment, and how link i
 
 - Notebooks:
   - Exercises (start with this one): `testing_initial.ipynb`
-- Dataset: `wine_synthetic.csv`
+- Dataset: `winequality-red.csv`
 - Install: `pip install -U pytest`, `pip install ydata-profiling` (if it doesn't work, try `conda install -c conda-forge ydata-profiling`), `pip install ipywidgets`, `pip install ipytest` (the last one enables you to run pytest in a notebook), `pip install notebook`
 
 **Instructions:**
