@@ -144,7 +144,7 @@ When you run it, it should return a list with predictions. If you get an error s
 
 ## Create Docker image
 
-19. Check out the examples of the Dockerfiles from yesterday and create one to containerize your model. **Hint**: Instead of CMD, you will use `ENTRYPOINT ["gunicorn", "--bind=0.0.0.0:9696", "main:app"]` to start the app in the container.
+19. Check out the examples of the Dockerfiles and create one to containerize your model. **Hint**: Instead of CMD, you will use `ENTRYPOINT ["gunicorn", "--bind=0.0.0.0:9696", "main:app"]` to start the app in the container.
 
 20. Build the image and name it `wine-app`.
 
@@ -152,7 +152,7 @@ When you run it, it should return a list with predictions. If you get an error s
 
 22. Test it again with the `test_app_locally.py` and stop it (`Ctrl+C`).
 
-23. Tag the image properly and push it to the Docker Hub (check yesterday's lab).
+23. Tag the image properly and push it to the Docker Hub.
 
 ## Deploying the container to Azure Web Services
 
