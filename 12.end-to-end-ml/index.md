@@ -43,7 +43,7 @@ duration: 1h30
 - It is based on **TensorFlow libraries**
 - Many libraries: potential problems with compatibility
 
-![Libraries][./assets/libraries_components.png]
+![Libraries](./assets/libraries_components.png)
 
 - Modular: modules can be used independently or to build pipelines
 - Output from one module is input for the next one
